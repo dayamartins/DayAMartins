@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Daynne Martins
 
-**`Desenvolvedora FullStack`**
+**`To be: Analista de Dados e BI`**
 
-Engenheira Civil com pós-graduação em Segurança do Trabalho, em transição para o universo de dados e Business Intelligence. Tenho experiência em gestão de projetos, criação de dashboards e relatórios no Power BI e Excel, e atualmente estou aprendendo SQL e Python para transformar dados em insights que apoiem decisões estratégicas. Apaixonada por explorar informações e encontrar soluções baseadas em dados, busco continuamente desenvolver minhas habilidades e aplicar meu conhecimento em projetos reais.
+Engenheira Civil com pós-graduação em Segurança do Trabalho, em transição para o universo de dados e Business Intelligence. Tenho experiência em gestão de projetos, criação de dashboards e relatórios no Power BI e Excel e atualmente estou aprendendo SQL e Python para transformar dados em insights que apoiem decisões estratégicas. Apaixonada por explorar informações e encontrar soluções baseadas em dados, busco continuamente desenvolver minhas habilidades e aplicar meu conhecimento em projetos reais.
 
 <div>
   <a href="https://www.instagram.com/_daymartins/" target="_blank">
